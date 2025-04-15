@@ -1,0 +1,5 @@
+- A dashboard that represents retail company sales insights. INCLUDED
+- Monthly revenue
+- Total order
+- Order by city and more.
+- Download the file and open it in power bi.
