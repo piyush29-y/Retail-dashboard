@@ -4,7 +4,7 @@ RETAIL SALES DASHBOARD
 - Total order
 - Order by city and more.
 
-  HOW TO OPEN FILE
+HOW TO OPEN FILE
 - Download the file
 - Install power bi desktop
 - Open the file in power bi
