@@ -1,5 +1,6 @@
 RETAIL SALES DASHBOARD
-- A dashboard that represents retail company sales insights. INCLUDED
+- A dashboard that represents retail company sales insights.
+  INCLUDED
 - Monthly revenue
 - Total order
 - Order by city and more.
